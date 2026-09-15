@@ -61,7 +61,7 @@ Steve learned an important lesson:
 And so, the Disenchanter was born.  Steve's discovery allows adventurers to reclaim the magic hidden within their weapons, tools, and armor — preserving enchantments that might otherwise be lost forever.
 But when it comes to curses...
 
-> ### **You'd better be lucky.**
+> ### **You'd better be careful.**
 
 ---
 
