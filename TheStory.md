@@ -67,3 +67,17 @@ But when it comes to curses...
 
 *The research of Steve did not end with the discovery of the Disenchanter.*
 *There are still enchantments whose secrets remain unknown...*
+
+---
+
+## ✦ Acquire Steve's Process
+
+Steve's research eventually became more than notes in an old journal.  The process he discovered was preserved, refined, and made available to those willing to use it. If you wish to put Steve's work to use on your own server, you can acquire the **Disenchanter** and begin recovering the enchantments that would otherwise be lost.
+
+### **[Acquire Steve's Disenchanter](https://www.spigotmc.org/resources/rs-disenchanter.138581/)**
+
+*Use his discovery wisely.*
+
+*And remember...*
+
+> **You'd better be careful.**
