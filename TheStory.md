@@ -1,6 +1,6 @@
 # 📖 The Story of the Disenchanter
 
-> *"Magic should not be lost simply because the vessel that held it has broken."*
+> *"Magic should not be lost simply because the vessel that held it his no longer useful."*
 > 
 > — Steve, from the final pages of his research journal
 
