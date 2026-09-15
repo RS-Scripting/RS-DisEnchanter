@@ -45,7 +45,7 @@ But Steve soon discovered that not all magic was willing to leave so easily.
 **Curses were different.**
 
 Dark enchantments resisted the process, fighting against anyone who attempted to extract them.
-Removing a curse was dangerous.  Failure could cause the entire item — and any enchantments already recovered from it — to be lost.
+Removing a curse was dangerous.  Failure could cause the entire item — and any enchantments not already recovered from it — to be lost.
 Steve learned an important lesson:
 
 > **Some magic can be preserved.**
